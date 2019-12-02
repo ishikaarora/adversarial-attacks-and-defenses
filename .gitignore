@@ -10,4 +10,5 @@ data/
 __pycache__/
 boto.cfg
 .ipynb_checkpoints
-Concept_Drift/
+samples/
+models/
